@@ -1,0 +1,52 @@
+h2{
+  font-family: Arial, sans-serif;
+  text-align: center;
+padding:40px;
+}
+h5{
+  font-family: Arial, sans-serif;
+  text-align:center;
+}
+#img-div{
+  font-family: Arial, sans-serif;
+  text-align:center;
+  justify-content: center;
+}
+
+#main{
+  font-family: Arial, sans-serif;
+  background-color: #D3D3D3;
+}
+
+#tribute-info{
+  font-family: Arial, sans-serif;
+  text-align: center;
+
+}
+
+ul{
+  font-family: Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  justify-content: center;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#quote{
+  font-family: Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  justify-content: center;
+  margin-left: 350px;
+  margin-right: 350px;
+
+}
+#tribute-link{
+  font-family: Arial, sans-serif;
+    justify-content: center;
+}
+.responsive {
+  width: 100%;
+  height: auto;
+}
